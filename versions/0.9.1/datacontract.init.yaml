@@ -45,6 +45,13 @@ info:
 
 #servers:
 #  my-stage:
+#    type: glue
+#    account:
+#    database:
+#    location:
+
+#servers:
+#  my-stage:
 #    type: kafka
 #    host:
 #    topic:
